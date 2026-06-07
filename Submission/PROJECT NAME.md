@@ -3,32 +3,48 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Heena perween
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+https://github.com/perweenheena-MCA
 
 **Team Name:**  
-<!-- Write your team name -->
+FurNova
 
 **College/University:**  
-<!-- Write your college/university name -->
+Vinoba Bhave University
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+AI-assistant-chatbot-hub
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+AI Assistant Chatbot Hub is a modern web-based assistant designed to help users with everyday tasks through an intuitive conversational interface.
+
+The project is being developed as part of the Elite Coders Open Source Hackathon 2026 and is designed to be scalable for future open-source contributions.
+
+The goal is to provide a centralized assistant that combines chatbot functionality with useful productivity and utility features.
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Frontend:
+   HTML5  
+   CSS3
+  JavaScript
+Backend:
+   Python
+   Flask
+   Data Storage
+   JSON
+   SQLite (Future)
+Version Control:
+   Git
+   GitHub
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/perweenheena-MCA/AI-assistant-chatbot-hub
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
