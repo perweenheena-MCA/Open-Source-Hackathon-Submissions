@@ -28,6 +28,9 @@ The project is being developed as part of the Elite Coders Open Source Hackathon
 The goal is to provide a centralized assistant that combines chatbot functionality with useful productivity and utility features.
 
 **Tech Stack Used:**  
+Frontend: HTML5
+CSS3 JavaScript Backend: Python Flask Data Storage JSON SQLite (Future)
+Version Control: Git GitHub
 
 **GitHub Repository Link:**  
 https://github.com/perweenheena-MCA/AI-assistant-chatbot-hub
