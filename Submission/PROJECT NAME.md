@@ -72,7 +72,7 @@ Please complete these before submitting:
 - [ ] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn  
+- [ ] I have followed Memori Labs on LinkedIn
   https://www.linkedin.com/company/memorilabs/
 
 - [ ] I have followed Memori Labs on X  
