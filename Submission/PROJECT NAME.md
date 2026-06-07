@@ -39,6 +39,7 @@ Backend:
    Data Storage
    JSON
    SQLite (Future)
+   
 Version Control:
    Git
    GitHub
