@@ -3,49 +3,32 @@
 ## Participant Details
 
 **Full Name:**  
-Heena perween
+<!-- Write your full name -->
 
 **GitHub Username:**  
-https://github.com/perweenheena-MCA
+<!-- Write your GitHub username -->
 
 **Team Name:**  
-FurNova
+<!-- Write your team name -->
 
 **College/University:**  
-Vinoba Bhave University
+<!-- Write your college/university name -->
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-AI-assistant-chatbot-hub
+<!-- Write your project/idea title -->
 
 **Project Description:**  
-AI Assistant Chatbot Hub is a modern web-based assistant designed to help users with everyday tasks through an intuitive conversational interface.
-
-The project is being developed as part of the Elite Coders Open Source Hackathon 2026 and is designed to be scalable for future open-source contributions.
-
-The goal is to provide a centralized assistant that combines chatbot functionality with useful productivity and utility features.
+<!-- Explain what your project does, what problem it solves, and why it matters -->
 
 **Tech Stack Used:**  
-Frontend:
-   HTML5  
-   CSS3
-  JavaScript
-Backend:
-   Python
-   Flask
-   Data Storage
-   JSON
-   SQLite (Future)
-   
-Version Control:
-   Git
-   GitHub
+<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
 
 **GitHub Repository Link:**  
-https://github.com/perweenheena-MCA/AI-assistant-chatbot-hub
+<!-- Add your public project repository link -->
 
 **Live Demo Link:**  
 <!-- Add deployed link if available -->
@@ -73,7 +56,7 @@ Please complete these before submitting:
 - [ ] I have starred the Memori Labs GitHub repository  
   https://github.com/MemoriLabs/Memori
 
-- [ ] I have followed Memori Labs on LinkedIn
+- [ ] I have followed Memori Labs on LinkedIn  
   https://www.linkedin.com/company/memorilabs/
 
 - [ ] I have followed Memori Labs on X  
